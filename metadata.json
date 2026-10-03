@@ -1,0 +1,6 @@
+{
+  "name": "Polynite: Battle Royale",
+  "description": "A fast-paced low-poly 3D Battle Royale game featuring gliders, randomized weapon drops and chests, building mechanics, closing storm zones, and bot combat.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
